@@ -1,9 +1,4 @@
 
-![Uploading h11rw4Rs05v7RHvDo7qee2yrrCUkLPCs.jpg…]()
-
-
-
-
 # 🌤️ Weather App – Kurulum ve API Anahtarı Ayarları
 
 Bu proje, hava durumu verilerini almak için WeatherAPI servisini kullanmaktadır. Uygulamayı sorunsuz bir şekilde çalıştırabilmek için kişisel bir API anahtarı gereklidir.
